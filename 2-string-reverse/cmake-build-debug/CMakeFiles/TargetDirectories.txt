@@ -1,3 +1,0 @@
-E:/C_Language_Practice/2-string-reverse/cmake-build-debug/CMakeFiles/2_string_reverse.dir
-E:/C_Language_Practice/2-string-reverse/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/C_Language_Practice/2-string-reverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
